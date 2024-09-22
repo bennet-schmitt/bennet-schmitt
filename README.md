@@ -9,7 +9,7 @@
 
 - 🧳 New to Github
 
-- ⚡ Fun fact **I debug in my sleep and wake up with solutions**
+- ⚡ Fun fact: **I debug in my sleep and wake up with solutions**
 
 <p align="left">
 </p>
