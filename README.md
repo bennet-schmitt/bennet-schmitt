@@ -2,6 +2,7 @@
 - 👀 I’m interested in Cybersecurity & Web3-Development
 - 🌱 I’m currently learning Penetration Testing
 - 📫 How to reach me bennet.s@tuta.com
+- 🎓 New to Github
 - ⚡ Fun fact: I debug in my sleep and wake up with solutions
 
 <!---
